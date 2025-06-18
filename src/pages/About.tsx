@@ -182,14 +182,14 @@ const About = () => {
               
               <div className="flex-1 text-center lg:text-left space-y-6">
                 <h3 className="text-3xl font-bold text-[#003057]">
-                  [Founder Name]
+                  Junhyuk Hur
                 </h3>
                 <div className="space-y-4 text-lg text-gray-600 leading-relaxed">
                   <p>
-                    After years of leading engineering teams and experiencing firsthand the communication challenges that slow down great teams, I founded Rambln.AI to solve this problem once and for all.
+                    After years of seeing leading engineering teams and experiencing firsthand the communication challenges that slow down great teams, I founded Rambln.AI to solve this problem once and for all.
                   </p>
                   <p>
-                    Previously at [Previous Company], I saw how much time talented engineers spent explaining their work instead of doing it. I watched brilliant minds get bogged down in status meetings and progress reports when they could have been building the future.
+                    I saw how much time talented engineers spent explaining their work instead of doing it. I watched brilliant minds get bogged down in status meetings and progress reports when they could have been building the future.
                   </p>
                   <p className="text-[#003057] font-semibold">
                     Rambln.AI is my solution to give that time back to the builders, the creators, the teams who change the world one line of code at a time.
@@ -197,7 +197,7 @@ const About = () => {
                 </div>
                 
                 <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
-                  <a href="#" className="text-[#003057] hover:text-[#B3A369] font-medium transition-colors duration-200">
+                  <a href="https://www.linkedin.com/in/junhyuk-hur/" className="text-[#003057] hover:text-[#B3A369] font-medium transition-colors duration-200">
                     LinkedIn →
                   </a>
                   <a href="#" className="text-[#003057] hover:text-[#B3A369] font-medium transition-colors duration-200">
