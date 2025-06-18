@@ -200,7 +200,7 @@ const About = () => {
                   <a href="https://www.linkedin.com/in/junhyuk-hur/" className="text-[#003057] hover:text-[#B3A369] font-medium transition-colors duration-200">
                     LinkedIn →
                   </a>
-                  <a href="#" className="text-[#003057] hover:text-[#B3A369] font-medium transition-colors duration-200">
+                  <a href="https://x.com/Rambln_AI" className="text-[#003057] hover:text-[#B3A369] font-medium transition-colors duration-200">
                     Twitter →
                   </a>
                 </div>
