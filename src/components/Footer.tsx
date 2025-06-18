@@ -26,7 +26,7 @@ const Footer = () => {
             
             <div className="flex space-x-4">
               <a 
-                href="#" 
+                href="https://x.com/Rambln_AI" 
                 className="w-10 h-10 bg-white/10 rounded-lg flex items-center justify-center hover:bg-[#B3A369] transition-all duration-300 hover:scale-110"
               >
                 <Twitter className="w-5 h-5" />
