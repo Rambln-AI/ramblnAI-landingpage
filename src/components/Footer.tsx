@@ -32,19 +32,19 @@ const Footer = () => {
                 <Twitter className="w-5 h-5" />
               </a>
               <a 
-                href="#" 
+                href="https://www.linkedin.com/company/rambln-ai" 
                 className="w-10 h-10 bg-white/10 rounded-lg flex items-center justify-center hover:bg-[#B3A369] transition-all duration-300 hover:scale-110"
               >
                 <Linkedin className="w-5 h-5" />
               </a>
               <a 
-                href="#" 
+                href="https://github.com/Rambln-AI" 
                 className="w-10 h-10 bg-white/10 rounded-lg flex items-center justify-center hover:bg-[#B3A369] transition-all duration-300 hover:scale-110"
               >
                 <Github className="w-5 h-5" />
               </a>
               <a 
-                href="mailto:hello@rambln.ai" 
+                href="mailto:jun18shadow@gmail.com" 
                 className="w-10 h-10 bg-white/10 rounded-lg flex items-center justify-center hover:bg-[#B3A369] transition-all duration-300 hover:scale-110"
               >
                 <Mail className="w-5 h-5" />
