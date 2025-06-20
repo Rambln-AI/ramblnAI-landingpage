@@ -67,7 +67,7 @@ const About = () => {
   const stats = [
     { number: "500+", label: "Teams on waitlist" },
     { number: "50+", label: "Companies interested" },
-    { number: "2024", label: "Founded" },
+    { number: "2025", label: "Founded" },
     { number: "100%", label: "Team satisfaction" }
   ];
 
